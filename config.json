@@ -1,0 +1,12 @@
+{
+  "ignition": { "version": "2.2.0" },
+  "passwd": {
+    "users": [
+      {
+        "name": "admin",
+        "passwordHash": "admin"
+        ]
+      }
+    ]
+  }
+}
